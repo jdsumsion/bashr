@@ -19,9 +19,11 @@ Examples:
     => true
 
 Weaknesses:
+
 * no commands with '-' or '.' can be executed
 * after a while, it's fairly annoying to try to craft command lines, however this annoyance drives me in a good way toward gems, so it's ok
 
 Similar projects:
+
 * http://rush.heroku.com/
 * something else I don't remember
