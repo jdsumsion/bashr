@@ -23,7 +23,7 @@ Weaknesses:
 * no commands with '-' or '.' can be executed
 * after a while, it's fairly annoying to try to craft command lines, however this annoyance drives me in a good way toward gems, so it's ok
 
-Similar projects:
+Related ideas:
 
 * http://rush.heroku.com/
-* something else I don't remember
+* http://tech.natemurray.com/2007/03/ruby-shell-commands.html
